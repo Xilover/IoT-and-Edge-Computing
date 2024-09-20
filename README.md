@@ -1,7 +1,3 @@
-Here’s how you can convert the course outline into a **GitHub repository README** format. This README will explain the course structure, its modules, and the associated projects in a clear and organized way for anyone who visits the repository.
-
----
-
 # IoT, Edge Computing, and Embedded Systems: Course Outline
 
 This course is designed to provide a hands-on learning experience in **IoT**, **edge computing**, and **embedded systems** using a variety of platforms such as **microcontrollers** (nRF, STM32, ESP32), **FPGAs** (Xilinx), and **SoCs** (Raspberry Pi, Zynq). Each module contains a project that reinforces the theory covered, allowing students to design, build, and deploy real-world IoT solutions.
@@ -207,7 +203,3 @@ Design, build, and deploy a complete IoT system using microcontrollers (e.g., nR
 ## License
 
 This course material is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust this structure as necessary, but this should give you a good starting point for creating a GitHub repository to share this course.
