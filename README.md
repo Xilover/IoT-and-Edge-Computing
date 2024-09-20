@@ -1,4 +1,4 @@
-# IoT, Edge Computing, and Embedded Systems: Course Outline
+# IoT, Edge Computing, and Embedded Systems
 
 This course is designed to provide a hands-on learning experience in **IoT**, **edge computing**, and **embedded systems** using a variety of platforms such as **microcontrollers** (nRF, STM32, ESP32), **FPGAs** (Xilinx), and **SoCs** (Raspberry Pi, Zynq). Each module contains a project that reinforces the theory covered, allowing students to design, build, and deploy real-world IoT solutions.
 
